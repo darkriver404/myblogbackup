@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 暗流与知行合一
+subtitle: 勿在浮沙筑高台
+description: 暗流Veda的个人博客 游戏开发 游戏设计 Unity 个人成长 读书笔记 随感 摄影
+keywords: 游戏开发 游戏设计 Unity 个人成长 读书笔记 随感 摄影
+author: 暗流Veda
 language:
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
