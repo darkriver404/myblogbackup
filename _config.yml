@@ -4,16 +4,17 @@
 
 # Site
 title: 暗流与知行合一
-subtitle: 勿在浮沙筑高台
-description: 暗流Veda的个人博客 游戏开发 游戏设计 Unity 个人成长 读书笔记 随感 摄影
-keywords: 游戏开发 游戏设计 Unity 个人成长 读书笔记 随感 摄影
+subtitle: 知行合一/勿在浮沙筑高台
+description: 暗流Veda的个人博客
+keywords: "游戏开发,游戏设计,独立游戏,严肃游戏,Unity,UnrealEngine,程序员,TA偏技术,极客,编程,代码,开源,IT,网站,个人成长,读书笔记,随感,摄影"
 author: 暗流Veda
+email: 877357017@qq.com
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://darkriver404.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
